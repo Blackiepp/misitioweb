@@ -1,0 +1,15 @@
+{
+    "slug": "online",
+    "title": "Cursos en linea",
+    "description": "Cursos finalizados en plataformas de educacion en internet.",
+    "items": [
+        {
+            "name": "Curso de JavaScript Profesional",
+            "url": "https://codigofacilito.com/cursos/javascript-profesional"
+        },
+        {
+            "name": "JavaScript y el DOM",
+            "url": "https://codigofacilito.com/cursos/javascript-dom"
+        }
+    ]
+}

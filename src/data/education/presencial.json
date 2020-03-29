@@ -1,0 +1,17 @@
+{
+    "slug": "presencial",
+    "title": "Formacion Academica",
+    "description": "Formacion academica, grados de estudio e instituciones a las que asistí.",
+    "items": [
+        {
+            "name": "Universidad Nacional del Oeste",
+            "degree": "Licenciatura en Informatica",
+            "score": "7"
+        },
+        {
+            "name": "Universidad Nacional del Oeste",
+            "degree": "Analista en Informatica",
+            "score": "7"
+        }
+    ]
+}

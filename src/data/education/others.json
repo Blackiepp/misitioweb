@@ -1,0 +1,17 @@
+{
+    "slug": "others",
+    "title": "Otros logros academicos",
+    "description": "Talleres y diplomados.",
+    "items": [
+        {
+            "name": "Universidad Tecnologica Nacional",
+            "degree": "Excel Avanzado",
+            "score": "7"
+        },
+        {
+            "name": "Instituto Cambridge",
+            "degree": "English Upper-Intermediate",
+            "score": "7"
+        }
+    ]
+}
